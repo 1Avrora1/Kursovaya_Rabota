@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Strygin_Kursovaya</string>
+    <string name="hi">разработал Стрыгин Никита РИБО-03-22</string>
+    <string name="loginBTN">Войти</string>
+    <string name="password">Пароль</string>
+    <string name="login">Логин</string>
+    <string name="serverError">Указаны неверные данные</string>
+    <string name="incompleteData">Данные введены не полностью</string>
+    <string name="name">Погода в Москве</string>
+</resources>

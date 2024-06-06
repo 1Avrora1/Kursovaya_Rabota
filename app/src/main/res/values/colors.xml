@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="StateBlue">#8C6A5ACD</color>
+    <color name="Vanilla">#F7E9B3</color>
+    <color name="Violet">#140A30</color>
+    <color name="Kinovar">#DF0D21</color>
+    <color name="Blue">#C6E6EF</color>
+    <color name="Blue2">#D9C6E6EF</color>
+</resources>
